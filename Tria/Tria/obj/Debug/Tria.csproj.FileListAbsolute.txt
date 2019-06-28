@@ -1,0 +1,50 @@
+C:\Users\Professor\source\repos\Tria\Tria\bin\Debug\Tria.exe.config
+C:\Users\Professor\source\repos\Tria\Tria\bin\Debug\Tria.exe
+C:\Users\Professor\source\repos\Tria\Tria\bin\Debug\Tria.pdb
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.csprojAssemblyReference.cache
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.frmTriangulos.resources
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.Properties.Resources.resources
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.csproj.GenerateResource.cache
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.exe
+C:\Users\Professor\source\repos\Tria\Tria\obj\Debug\Tria.pdb
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\bin\Debug\Tria.exe.config
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\bin\Debug\Tria.exe
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\bin\Debug\Tria.pdb
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.frmTriangulos.resources
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.Properties.Resources.resources
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.exe
+C:\Users\Aluno\Desktop\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.pdb
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\bin\Debug\Tria.exe.config
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\bin\Debug\Tria.exe
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\bin\Debug\Tria.pdb
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.csprojAssemblyReference.cache
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.frmTriangulos.resources
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.Properties.Resources.resources
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.csproj.GenerateResource.cache
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.csproj.CoreCompileInputs.cache
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.exe
+G:\DS\TP\TP-Aula7 - Triângulos\Tria\Tria\obj\Debug\Tria.pdb
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\bin\Debug\Tria.exe.config
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\bin\Debug\Tria.exe
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\bin\Debug\Tria.pdb
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\obj\Debug\Tria.csprojAssemblyReference.cache
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\obj\Debug\Tria.frmTriangulos.resources
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\obj\Debug\Tria.Properties.Resources.resources
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\obj\Debug\Tria.csproj.GenerateResource.cache
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\obj\Debug\Tria.csproj.CoreCompileInputs.cache
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\obj\Debug\Tria.exe
+E:\DS ETEC HORÁCIO\TP\2 parte triangulo\Tria\Tria\obj\Debug\Tria.pdb
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\bin\Debug\Tria.exe.config
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\bin\Debug\Tria.exe
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\bin\Debug\Tria.pdb
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\obj\Debug\Tria.csprojAssemblyReference.cache
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\obj\Debug\Tria.frmTriangulos.resources
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\obj\Debug\Tria.Properties.Resources.resources
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\obj\Debug\Tria.csproj.GenerateResource.cache
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\obj\Debug\Tria.csproj.CoreCompileInputs.cache
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\obj\Debug\Tria.exe
+D:\DS ETEC HORÁCIO\TP\Triangulo\Tria\Tria\obj\Debug\Tria.pdb
